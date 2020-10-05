@@ -1,16 +1,8 @@
-# toda_moeda
+ # TODA MOEDA APP
 
-A new Flutter project.
+<p> Aplicativo de conversão de moedas desenvolvido utilizando o framework Flutter</p>
 
-## Getting Started
+<h1> Informações </h1>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p> Neste projeto foi contruindo um App que faz conversão de moedas de forma dinâmica. Para obter os dados atualizados dos valores das moedas, fou utilizado um API que pode ser obtida através do seguinte link:</p> <a> https://hgbrasil.com/status/finance </a> 
