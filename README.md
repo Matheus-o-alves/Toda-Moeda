@@ -9,5 +9,7 @@
  
  <p float="left">
   <img src="https://user-images.githubusercontent.com/65368831/95039408-ff26c200-06a6-11eb-81da-352a977be0a4.gif" width="400" />
+ </p>
+ <p>
   <img src="https://user-images.githubusercontent.com/65368831/95039411-0221b280-06a7-11eb-8568-60849cd3f0f4.jpeg" width="400" /> 
 </p>
